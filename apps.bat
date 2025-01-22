@@ -11,6 +11,7 @@ Git.Git ^
 GitHub.GitHubDesktop ^
 Google.Drive ^
 IDRIX.VeraCrypt ^
+KiCad.KiCad ^
 Microsoft.VisualStudioCode ^
 Mozilla.Firefox ^
 Obsidian.Obsidian ^
