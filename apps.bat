@@ -3,10 +3,12 @@
 :: List of packages to install (split across multiple lines for readability)
 set packages=^
 Apple.iTunes ^
-DigitalScholar.Zotero ^
+Audacity.Audacity ^
 Discord.Discord ^
 Doist.Todoist ^
+dotPDN.PaintDotNet ^
 Dropbox.Dropbox ^
+GIMP.GIMP ^
 Git.Git ^
 GitHub.GitHubDesktop ^
 Google.Drive ^
@@ -15,6 +17,7 @@ KiCad.KiCad ^
 Microsoft.VisualStudioCode ^
 Mozilla.Firefox ^
 Obsidian.Obsidian ^
+OBSProject.OBSStudio
 Rufus.Rufus ^
 Valve.Steam ^
 VideoLAN.VLC ^
