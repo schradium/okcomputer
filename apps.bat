@@ -17,8 +17,10 @@ KiCad.KiCad ^
 Microsoft.VisualStudioCode ^
 Mozilla.Firefox ^
 Obsidian.Obsidian ^
-OBSProject.OBSStudio
+OBSProject.OBSStudio ^
+PuTTY.PuTTY ^
 Rufus.Rufus ^
+tailscale.tailscale ^
 Valve.Steam ^
 VideoLAN.VLC ^
 Yubico.Authenticator ^
