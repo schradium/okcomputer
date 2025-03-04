@@ -1,6 +1,6 @@
 @echo off
 
-:: List of packages to install (split across multiple lines for readability)
+:: List of packages to install
 set packages=^
 Apple.iTunes ^
 Audacity.Audacity ^
@@ -30,9 +30,9 @@ Zoom.Zoom
 
 for %%p in (%packages%) do (
     echo Checking if %%p is installed...
-    winget list -e --id %%p > nul 2>&1
+    winget list -e --id %%p | findstr /i "%%p" > nul
     if errorlevel 1 (
-        echo Installing %%p...
+        echo %%p is not installed. Installing...
         winget install -e --id %%p --silent --accept-package-agreements --accept-source-agreements
     ) else (
         echo %%p is already installed. Skipping...
