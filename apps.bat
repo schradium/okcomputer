@@ -20,7 +20,8 @@ Obsidian.Obsidian ^
 OBSProject.OBSStudio ^
 PuTTY.PuTTY ^
 Rufus.Rufus ^
-tailscale.tailscale ^
+Tailscale.Tailscale ^
+TheDocumentFoundation.LibreOffice ^
 Valve.Steam ^
 VideoLAN.VLC ^
 Yubico.Authenticator ^
