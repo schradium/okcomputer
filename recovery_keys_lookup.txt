@@ -1,0 +1,10 @@
+google-captainblaizeray: !
+google-davey.r.schneider: "
+google-tomyselfasiwouldothers: #
+microsoft: $
+github: %
+mozilla: &
+porkbun: '
+privacy: (
+temu: )
+instagram: *
