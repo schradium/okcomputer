@@ -5,6 +5,3 @@ microsoft: $
 github: %
 mozilla: &
 porkbun: '
-privacy: (
-temu: )
-instagram: *
